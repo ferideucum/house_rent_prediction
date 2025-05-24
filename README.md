@@ -4,7 +4,7 @@ Bu proje, gerçek dünya konut verileri kullanılarak kira fiyatlarını tahminl
 
 ## 📊 Veri Seti
 
-Kullanılan veri seti: [House Rent Dataset](https://www.kaggle.com/datasets/ankurzing/salary-data)** ](https://github.com/ferideucum/house_rent_prediction) 
+Kullanılan veri seti:https://www.kaggle.com/datasets/ankurzing/salary-data
 Veri seti Hindistan'daki büyük şehirlerdeki konutların kira bilgilerini içermektedir.
 
 ## 🔧 Kullanılan Özellikler
