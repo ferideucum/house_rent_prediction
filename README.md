@@ -4,7 +4,8 @@ Bu proje, gerçek dünya konut verileri kullanılarak kira fiyatlarını tahminl
 
 ## 📊 Veri Seti
 
-Kullanılan veri seti:[https://www.kaggle.com/datasets/ankurzing/salary-data](https://www.kaggle.com/datasets/iamsouravbanerjee/house-rent-prediction-dataset)
+Kullanılan veri seti:[House Rent Prediction Dataset (Kaggle)](https://www.kaggle.com/datasets/iamsouravbanerjee/house-rent-prediction-dataset)
+
 Veri seti Hindistan'daki büyük şehirlerdeki konutların kira bilgilerini içermektedir.
 
 ## 🔧 Kullanılan Özellikler
@@ -69,7 +70,8 @@ This project aims to develop a machine learning model to predict house rental pr
 
 ## 📊 Dataset
 
-Dataset used: **[House Rent Dataset](https://www.kaggle.com/datasets/ankurzing/salary-data)**  
+Dataset used: [House Rent Prediction Dataset (Kaggle)](https://www.kaggle.com/datasets/iamsouravbanerjee/house-rent-prediction-dataset)
+ 
 The dataset contains rental information of houses in major cities in India.
 
 ## 🔧 Features Used
